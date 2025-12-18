@@ -1,4 +1,5 @@
 new update in b1 only remotely 
+1st collaboator update
 updated in branch b1 remotely
 This is my first file- First line updated in Master
 This is my first file -updated by branch
